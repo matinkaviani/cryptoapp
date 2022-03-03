@@ -1,14 +1,43 @@
 {
   "files": {
-    "main.css": "/cryptoapp/static/css/main.5749b251.css",
-    "main.js": "/cryptoapp/static/js/main.95da9686.js",
-    "static/media/logo.png": "/cryptoapp/static/media/logo.ed54ce3d065d00889a75.png",
+    "main.css": "/cryptoapp/static/css/main.6415f6f9.css",
+    "main.js": "/cryptoapp/static/js/main.99e3c792.js",
+    "static/media/roboto-latin-900italic.woff": "/cryptoapp/static/media/roboto-latin-900italic.c20d916c1a1b094c1cec.woff",
+    "static/media/roboto-latin-300italic.woff": "/cryptoapp/static/media/roboto-latin-300italic.bd5b7a13f2c52b531a2a.woff",
+    "static/media/roboto-latin-500italic.woff": "/cryptoapp/static/media/roboto-latin-500italic.18d00f739ff1e1c52db1.woff",
+    "static/media/roboto-latin-400italic.woff": "/cryptoapp/static/media/roboto-latin-400italic.b1d9d9904bfca8802a63.woff",
+    "static/media/roboto-latin-100italic.woff": "/cryptoapp/static/media/roboto-latin-100italic.451d4e559d6f57cdf6a1.woff",
+    "static/media/roboto-latin-700italic.woff": "/cryptoapp/static/media/roboto-latin-700italic.9360531f9bb817f917f0.woff",
+    "static/media/roboto-latin-500.woff": "/cryptoapp/static/media/roboto-latin-500.cea99d3e3e13a3a599a0.woff",
+    "static/media/roboto-latin-900.woff": "/cryptoapp/static/media/roboto-latin-900.bac8362e7a6ea60b6983.woff",
+    "static/media/roboto-latin-100.woff": "/cryptoapp/static/media/roboto-latin-100.a45108d3b34af91f9113.woff",
+    "static/media/roboto-latin-700.woff": "/cryptoapp/static/media/roboto-latin-700.2267169ee7270a22a963.woff",
+    "static/media/roboto-latin-300.woff": "/cryptoapp/static/media/roboto-latin-300.865f928cbabcc9f8f2b5.woff",
+    "static/media/roboto-latin-400.woff": "/cryptoapp/static/media/roboto-latin-400.49ae34d4cc6b98c00c69.woff",
+    "static/media/roboto-latin-900italic.woff2": "/cryptoapp/static/media/roboto-latin-900italic.cb5ad999740e9d8a8bd1.woff2",
+    "static/media/roboto-latin-300italic.woff2": "/cryptoapp/static/media/roboto-latin-300italic.c64e7e354c88e613c77c.woff2",
+    "static/media/roboto-latin-400italic.woff2": "/cryptoapp/static/media/roboto-latin-400italic.d022bc70dc1bf7b3425d.woff2",
+    "static/media/roboto-latin-500italic.woff2": "/cryptoapp/static/media/roboto-latin-500italic.0d8bb5b3ee5f5dac9e44.woff2",
+    "static/media/roboto-latin-700italic.woff2": "/cryptoapp/static/media/roboto-latin-700italic.7d8125ff7f707231fd89.woff2",
+    "static/media/roboto-latin-100italic.woff2": "/cryptoapp/static/media/roboto-latin-100italic.7f839a8652da29745ce4.woff2",
+    "static/media/roboto-latin-500.woff2": "/cryptoapp/static/media/roboto-latin-500.f5b74d7ffcdf85b9dd60.woff2",
+    "static/media/roboto-latin-700.woff2": "/cryptoapp/static/media/roboto-latin-700.c18ee39fb002ad58b6dc.woff2",
+    "static/media/roboto-latin-100.woff2": "/cryptoapp/static/media/roboto-latin-100.c2aa4ab115bf9c6057cb.woff2",
+    "static/media/roboto-latin-300.woff2": "/cryptoapp/static/media/roboto-latin-300.37a7069dc30fc663c878.woff2",
+    "static/media/roboto-latin-400.woff2": "/cryptoapp/static/media/roboto-latin-400.176f8f5bd5f02b3abfcf.woff2",
+    "static/media/roboto-latin-900.woff2": "/cryptoapp/static/media/roboto-latin-900.870c8c1486f76054301a.woff2",
+    "static/media/logo.svg": "/cryptoapp/static/media/logo.9c98d7513638de9221d2352d86bbefde.svg",
+    "static/media/btcimg.svg": "/cryptoapp/static/media/btcimg.27bc5a51e05b386492ee422bad19903c.svg",
+    "static/media/globeimg.svg": "/cryptoapp/static/media/globeimg.1ccd45a173486b1342198e11a7843d8c.svg",
+    "static/media/lizardimg.svg": "/cryptoapp/static/media/lizardimg.15b60c3e1e2bcc795719b116878518e4.svg",
+    "static/media/discordimg.svg": "/cryptoapp/static/media/discordimg.3894ad5f4b4f878bd9ac896e8c1fe1d2.svg",
+    "static/media/mimg.svg": "/cryptoapp/static/media/mimg.dfd4b88073588efafc5e285aaf9eaa73.svg",
     "index.html": "/cryptoapp/index.html",
-    "main.5749b251.css.map": "/cryptoapp/static/css/main.5749b251.css.map",
-    "main.95da9686.js.map": "/cryptoapp/static/js/main.95da9686.js.map"
+    "main.6415f6f9.css.map": "/cryptoapp/static/css/main.6415f6f9.css.map",
+    "main.99e3c792.js.map": "/cryptoapp/static/js/main.99e3c792.js.map"
   },
   "entrypoints": [
-    "static/css/main.5749b251.css",
-    "static/js/main.95da9686.js"
+    "static/css/main.6415f6f9.css",
+    "static/js/main.99e3c792.js"
   ]
 }
