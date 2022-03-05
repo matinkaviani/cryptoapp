@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cryptoapp/static/css/main.791892d2.css",
-    "main.js": "/cryptoapp/static/js/main.e21804d5.js",
+    "main.css": "/cryptoapp/static/css/main.f931bceb.css",
+    "main.js": "/cryptoapp/static/js/main.c251b606.js",
     "static/media/roboto-latin-900italic.woff": "/cryptoapp/static/media/roboto-latin-900italic.c20d916c1a1b094c1cec.woff",
     "static/media/roboto-latin-300italic.woff": "/cryptoapp/static/media/roboto-latin-300italic.bd5b7a13f2c52b531a2a.woff",
     "static/media/roboto-latin-500italic.woff": "/cryptoapp/static/media/roboto-latin-500italic.18d00f739ff1e1c52db1.woff",
@@ -33,11 +33,11 @@
     "static/media/discordimg.svg": "/cryptoapp/static/media/discordimg.3894ad5f4b4f878bd9ac896e8c1fe1d2.svg",
     "static/media/mimg.svg": "/cryptoapp/static/media/mimg.dfd4b88073588efafc5e285aaf9eaa73.svg",
     "index.html": "/cryptoapp/index.html",
-    "main.791892d2.css.map": "/cryptoapp/static/css/main.791892d2.css.map",
-    "main.e21804d5.js.map": "/cryptoapp/static/js/main.e21804d5.js.map"
+    "main.f931bceb.css.map": "/cryptoapp/static/css/main.f931bceb.css.map",
+    "main.c251b606.js.map": "/cryptoapp/static/js/main.c251b606.js.map"
   },
   "entrypoints": [
-    "static/css/main.791892d2.css",
-    "static/js/main.e21804d5.js"
+    "static/css/main.f931bceb.css",
+    "static/js/main.c251b606.js"
   ]
 }
