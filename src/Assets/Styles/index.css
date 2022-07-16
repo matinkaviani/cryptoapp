@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Roboto !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.ant-space {
+    max-width: 100%;
+}
+@media (max-width: 768px) {
+    .main-content {
+        padding: 24px !important;  
+    }
+    .coin-info-top {
+        padding: 40px 30px !important;
+    }
+    .coin-info-last-update {
+        margin-top: 20px;
+    }
+    .coin-info-title {
+        text-align: center;
+    }
+    .btns button {
+        padding: 8px 8px !important;
+        width: 40px !important;
+        height: 35px !important;
+    }
+    .coin-info-mainchart {
+        padding: 40px 30px !important;
+    }
+    .top-head {
+        padding: 0 20px !important;
+    }
+    .top-head-container a, .top-head-container div {
+        margin: 0 10px;
+    }
+    .main-search {
+        max-width: 100% !important;
+    }
+    .main-chart-container {
+        display: block !important;
+    }
+        .main-chart-container div {
+            max-width: 100%;
+            margin-bottom: 30px !important;
+        }
+    footer .ant-col-offset-4 {
+        margin-left: 0;
+    }
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
