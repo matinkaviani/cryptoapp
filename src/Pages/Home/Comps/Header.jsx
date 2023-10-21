@@ -1,7 +1,6 @@
 import React from "react";
-import { Col, Row } from "antd";
-import Logo from "../../../Assets/Images/logo.svg"
 import { Link } from "react-router-dom";
+import Logo from "../../../Assets/Images/logo.svg";
 
 const Header = () => {
 
@@ -13,7 +12,7 @@ const Header = () => {
                 <Link className="main-btn" to={`#`}>Register</Link>
             </div>
         </div>
-        );
+    );
 }
 
 export default Header;

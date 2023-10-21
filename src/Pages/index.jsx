@@ -1,9 +1,9 @@
-import React from "react";
 import { Layout } from "antd";
-import { useEffect, useState } from "react";
-import { Outlet, useLocation } from "react-router-dom";
-import Header from "./Home/Comps/Header";
+import React, { useEffect, useState } from "react";
+import { Helmet } from "react-helmet";
+import { Outlet } from "react-router-dom";
 import Footer from "./Comps/Footer";
+import Header from "./Home/Comps/Header";
 
 const Pages = () => {
 
@@ -36,6 +36,9 @@ const Pages = () => {
 
     return (
         <div className="home-page">
+            <Helmet>
+                <title>Okay Tokens</title>
+            </Helmet>
             <Layout>
                 <Layout.Header className="top-head">
                     <Header />
