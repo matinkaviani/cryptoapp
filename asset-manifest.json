@@ -13,10 +13,10 @@
   "static/media/globeimg.svg": "/cryptoapp/static/media/globeimg.383ec457.svg",
   "static/media/mimg.svg": "/cryptoapp/static/media/mimg.fe39cff5.svg",
   "static/media/lizardimg.svg": "/cryptoapp/static/media/lizardimg.a717ee84.svg",
-  "static/media/index.css": "/cryptoapp/static/media/roboto-latin-900italic.ebf6d164.woff2",
-  "static/css/1.33371a73.chunk.css.map": "/cryptoapp/static/css/1.33371a73.chunk.css.map",
+  "static/media/index.css": "/cryptoapp/static/media/roboto-latin-500.020c97dc.woff2",
   "static/css/main.da62b63e.chunk.css.map": "/cryptoapp/static/css/main.da62b63e.chunk.css.map",
+  "static/css/1.33371a73.chunk.css.map": "/cryptoapp/static/css/1.33371a73.chunk.css.map",
   "index.html": "/cryptoapp/index.html",
-  "precache-manifest.0e6b03936b0195a37aba77ead70c60ae.js": "/cryptoapp/precache-manifest.0e6b03936b0195a37aba77ead70c60ae.js",
+  "precache-manifest.9c67919ffd3dedbc1a6d4007e2e18f3c.js": "/cryptoapp/precache-manifest.9c67919ffd3dedbc1a6d4007e2e18f3c.js",
   "service-worker.js": "/cryptoapp/service-worker.js"
 }
