@@ -1,19 +1,19 @@
-import React from "react";
-import './Assets/Styles/App.css';
 import 'antd/dist/antd.min.css';
-import Home from "./Pages/Home/index";
+import React from "react";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import './Assets/Styles/App.css';
 import CoinInfo from "./Pages/CoinInfo/index";
-import Pages from "./Pages/index"
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./Pages/Home/index";
+import Pages from "./Pages/index";
 
 
 const App = () => {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path={'/'} element={<Pages />}>
-                    <Route path={'/CoinInfo/Bitcoin'} element={<CoinInfo />} />
-                    <Route index path={'/'} element={<Home />} />
+                <Route path={'/cryptoapp'} element={<Pages />}>
+                    <Route path={'/cryptoapp/CoinInfo/Bitcoin'} element={<CoinInfo />} />
+                    <Route index path={'/cryptoapp'} element={<Home />} />
                 </Route>
             </Routes>
         </BrowserRouter>
